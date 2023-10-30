@@ -16,8 +16,7 @@ class Solution
             else
             {
                 break;
-            }
-            
+            } 
         }
          return nums[i];
     }
